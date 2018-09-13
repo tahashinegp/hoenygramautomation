@@ -1,4 +1,4 @@
-package com.honeygram.configuration;
+package com.honeygramtest.configuration;
 
 public class Device {
     String deviceID;

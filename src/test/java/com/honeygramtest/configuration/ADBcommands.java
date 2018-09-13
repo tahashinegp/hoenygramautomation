@@ -1,11 +1,6 @@
-package com.honeygram.configuration;
-
-import com.sun.deploy.net.proxy.WIExplorerAutoProxyHandler;
-import org.openqa.selenium.remote.Command;
-import org.openqa.selenium.remote.SessionId;
+package com.honeygramtest.configuration;
 
 import java.io.*;
-import java.util.ArrayList;
 import java.util.HashMap;
 
 public class ADBcommands {

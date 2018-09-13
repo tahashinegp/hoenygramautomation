@@ -1,4 +1,3 @@
-
 Feature: Log in Screen
   Background: Open Homeygram app
   @login

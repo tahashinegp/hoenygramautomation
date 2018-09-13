@@ -1,4 +1,4 @@
-package com.honeygram.CustomException;
+package com.honeygramtest.CustomException;
 
 public class DeviceNotfoundException extends Exception {
     public DeviceNotfoundException() {
